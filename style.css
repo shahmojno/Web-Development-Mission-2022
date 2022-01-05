@@ -81,3 +81,20 @@ padding: 2%;
 .mission-in img{
     width: 40%;
 }
+
+#mission-in-22{
+    text-align: center;
+    color: rgb(219, 13, 99);
+}
+
+#mission-in-c{
+    color: rgb(5, 5, 66);
+}
+
+.dream-left{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat:no-repeat ;
+    width: 100%;
+   
+    
+}
