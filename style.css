@@ -8,7 +8,7 @@ h1{
 }
 
 h2{
-    font-size: 40px;
+    font-size: 28px;
 }
 .fexible-container{
     display: flex;
@@ -50,4 +50,34 @@ padding-left: 10px ;
 #more{
     margin-top: 40px;
    
+}
+
+.Goals{
+background-color:rgb(172, 252, 225);
+border-radius: 10px;
+padding: 2%;
+
+
+}
+
+.Mission1{
+    background-color: rgb(250, 235, 213);
+    margin-right: 30px;
+    border-radius: 10px;
+    padding: 2%;
+}
+
+.Vission{
+    background-color: rgb(173, 228, 241);
+    margin-right: 30px;
+    border-radius: 10px;
+    padding: 2%;
+}
+
+.mission-in{
+    width: 100%;
+}
+
+.mission-in img{
+    width: 40%;
 }
