@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 20px 100px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 40px;
+}
+.fexible-container{
+    display: flex;
+}
+
+#mission{
+    color: blue;
+}
+
+.container-stay{
+    margin-right: 60px;
+    width: 30%;
+}
+
+#border-stay{
+border-left: 3px solid red;
+padding-left: 10px ;
+
+}
+
+.half-width{
+    width: 50%;
+
+}
+
+.half-width img{
+    width: 80%;
+    
+}
+
+.button-link{
+    padding: 10px 30px;
+    background-color: royalblue;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+#more{
+    margin-top: 40px;
+   
+}
