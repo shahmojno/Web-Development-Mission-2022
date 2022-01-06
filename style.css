@@ -47,6 +47,7 @@ padding-left: 10px ;
     color: white;
     font-size: 16px;
     text-decoration: none;
+    border-radius: 5px;
 }
 
 #more{
@@ -173,4 +174,5 @@ footer{
 
 #footer-mission{
     color: rgb(245, 80, 80);
+    font-size: 40px;
 }
