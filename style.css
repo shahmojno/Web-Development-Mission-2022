@@ -32,8 +32,6 @@ padding-left: 10px ;
 
 .half-width{
     width: 50%;
-   
-
 }
 
 .half-width img{
@@ -57,23 +55,21 @@ padding-left: 10px ;
 
 .Goals{
 background-color:rgb(172, 252, 225);
-border-radius: 10px;
+border-radius:20px;
 padding: 3%;
-
-
 }
 
 .Mission1{
     background-color: rgb(250, 235, 213);
     margin-right: 30px;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 3%;
 }
 
 .Vission{
     background-color: rgb(173, 228, 241);
     margin-right: 30px;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 3%;
 }
 
@@ -152,7 +148,7 @@ footer{
     color: white;
     text-align: center;
     padding-top: 2px;
-    
+
     
 }
 
@@ -165,8 +161,6 @@ footer{
     font-family: 'Pacifico', cursive;
 
     font-size: 30px;
-
-
 
 
 }
