@@ -115,6 +115,14 @@ padding: 3%;
     width: 80%;
 }
 
+#Global-Community{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 40%;
+    background-position: right;
+    background-repeat: no-repeat;
+    
+}
+
 #Dream-Web{
     color: tomato;
    
@@ -132,14 +140,14 @@ padding: 3%;
     background-image: url(images/shapes/shape-7.png);
     background-repeat: no-repeat;
     background-position: right;
-    background-size: 160px;
+    background-size: 170px;
         
 }
 
 
 footer{
     height: 160px;
-    background-color: rgb(14, 6, 27);
+    background-color: black;
     color: white;
     text-align: center;
     padding-top: 2px;
