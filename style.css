@@ -115,10 +115,30 @@ padding: 3%;
     width: 80%;
 }
 
+#Dream-Web{
+    color: tomato;
+   
+}
+
+#fexible-build{
+    text-align: center;
+}
+
+#Future{
+    color: blue;
+}
+
+.Dream-Web2{
+    background-image: url(images/shapes/shape-7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 160px;
+        
+}
 
 
 footer{
-    height: 180px;
+    height: 160px;
     background-color: rgb(14, 6, 27);
     color: white;
     text-align: center;
@@ -135,7 +155,7 @@ footer{
     font-family: 'Lobster Two', cursive;
     font-family: 'Pacifico', cursive;
 
-    font-size: 35px;
+    font-size: 30px;
 
 
 
