@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 20px 100px;
+    margin:0;
 }
 
 h1{
@@ -12,6 +12,7 @@ h2{
 }
 .fexible-container{
     display: flex;
+    margin: 20px 70px;
 }
 
 #mission{
@@ -31,6 +32,7 @@ padding-left: 10px ;
 
 .half-width{
     width: 50%;
+   
 
 }
 
@@ -55,7 +57,7 @@ padding-left: 10px ;
 .Goals{
 background-color:rgb(172, 252, 225);
 border-radius: 10px;
-padding: 2%;
+padding: 3%;
 
 
 }
@@ -64,18 +66,18 @@ padding: 2%;
     background-color: rgb(250, 235, 213);
     margin-right: 30px;
     border-radius: 10px;
-    padding: 2%;
+    padding: 3%;
 }
 
 .Vission{
     background-color: rgb(173, 228, 241);
     margin-right: 30px;
     border-radius: 10px;
-    padding: 2%;
+    padding: 3%;
 }
 
 .mission-in{
-    width: 100%;
+    width: 90%;
 }
 
 .mission-in img{
@@ -93,8 +95,54 @@ padding: 2%;
 
 .dream-left{
     background-image: url(images/shapes/dream-bg.png);
-    background-repeat:no-repeat ;
-    width: 100%;
-   
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+
+.project{
+    width: 50%;
+    padding: 3%;
+
+}
+
+#image-padding{
+    padding-left: 100px;
+}
+
+.project img{
+    width: 80%;
+}
+
+
+
+footer{
+    height: 180px;
+    background-color: rgb(14, 6, 27);
+    color: white;
+    text-align: center;
+    padding-top: 2px;
     
+    
+}
+
+.footer-mission-font{
+
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Lobster Two', cursive;
+    font-family: 'Pacifico', cursive;
+
+    font-size: 35px;
+
+
+
+
+}
+
+
+#footer-mission{
+    color: rgb(245, 80, 80);
 }
